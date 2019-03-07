@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1DE7A1C-C31C-4508-B278-B245AD2CDCBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "685E8E82-EDE6-4A56-B87A-E593B8D8D15D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8677AA65-C1CF-4C62-8B06-5FBB302B8AD9",
+    "height": 46,
+    "width": 592,
+    "x": 0,
+    "y": 126
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "ABDEB454-8053-4275-88AC-E5B52A8C8C61"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1E2A8B44-623D-4361-9FBC-9A4E9960DFA3"
+    },
+    {
+      "class": "text",
+      "id": "3C751688-4943-4707-9EF9-5EA76A10DF13"
+    }
+  ],
+  "name": "Pages",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "32377F69-B744-4FDA-8435-92487B337D54",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

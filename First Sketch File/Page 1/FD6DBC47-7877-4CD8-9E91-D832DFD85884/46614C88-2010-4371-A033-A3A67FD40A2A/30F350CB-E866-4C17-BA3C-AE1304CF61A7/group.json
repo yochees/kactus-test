@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "30F350CB-E866-4C17-BA3C-AE1304CF61A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A8B5B04D-A965-4D99-B752-DCD5AF2CFCAF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6EC63FF0-7628-47F6-9C95-7232B26D58B8",
+    "height": 28,
+    "width": 301,
+    "x": 0,
+    "y": 4
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "714FDD5F-9C44-4682-82ED-5180B8AFF1EF"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6B22EC35-BE34-4A24-9185-AC640BA329D5"
+    },
+    {
+      "class": "bitmap",
+      "id": "2A2AEEBC-F61B-4A3C-9621-743A5E1B4132"
+    }
+  ],
+  "name": "Sketch screenshot",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0CC436EC-DD6D-4731-B402-4F6547701338",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

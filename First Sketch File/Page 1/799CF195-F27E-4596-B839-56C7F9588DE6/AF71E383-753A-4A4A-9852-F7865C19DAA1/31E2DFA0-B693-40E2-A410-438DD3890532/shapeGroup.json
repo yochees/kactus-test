@@ -1,0 +1,194 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "31E2DFA0-B693-40E2-A410-438DD3890532",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE3A6A72-818B-417E-BC7E-0336ACC236E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "48641ACC-4066-494D-A3EB-AF6C8D14AABD",
+    "height": 29.515625,
+    "width": 207.109375,
+    "x": 65.71875,
+    "y": 26.6875
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "074DA316-18D1-43A7-853D-10AE70DE04AB"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7D50D347-8AD7-4272-A9FA-6A313F0411B4"
+    },
+    {
+      "class": "shapePath",
+      "id": "0C2A76F8-E273-45CC-B0F6-71FCE3A4E750"
+    },
+    {
+      "class": "shapePath",
+      "id": "95A689D4-0F9B-4B41-BACD-794C9933736D"
+    },
+    {
+      "class": "shapePath",
+      "id": "FD2F31FB-8C39-495B-A8D3-8CD7EE0F9C44"
+    },
+    {
+      "class": "shapePath",
+      "id": "19ED3DE7-717A-46B1-9952-BDECEB7CBFAD"
+    },
+    {
+      "class": "shapePath",
+      "id": "B71B8BF7-2CDE-457F-8B5D-261D39EA89AE"
+    },
+    {
+      "class": "shapePath",
+      "id": "C4B0E28B-D431-4F49-BD00-362FE95DF92A"
+    },
+    {
+      "class": "shapePath",
+      "id": "8F63ECDF-7F07-4E2A-A2DC-001AF70A5820"
+    },
+    {
+      "class": "shapePath",
+      "id": "06BC7BED-E182-48BE-BEEB-05C676D21DA2"
+    },
+    {
+      "class": "shapePath",
+      "id": "DDD78DB2-2855-4B4F-8588-96D07752455B"
+    },
+    {
+      "class": "shapePath",
+      "id": "23D92FE0-291E-4B0A-A11B-B0DF69A9BD6A"
+    },
+    {
+      "class": "shapePath",
+      "id": "5D717E56-8ED0-4CA4-9B5C-F1FBA52F43A3"
+    },
+    {
+      "class": "shapePath",
+      "id": "8A7B7C49-E8BC-4BA9-9F7F-8E22904F6D69"
+    },
+    {
+      "class": "shapePath",
+      "id": "AB59CDE3-CE43-4E49-B328-F7FC2666497E"
+    },
+    {
+      "class": "shapePath",
+      "id": "78BFB177-AE6B-4105-8E4C-E5A4BB1E752A"
+    },
+    {
+      "class": "shapePath",
+      "id": "1160B25E-8854-4813-BE7E-D8B311B6C572"
+    },
+    {
+      "class": "shapePath",
+      "id": "04EC9C86-CEB0-4F76-98AE-82F20D1C340D"
+    },
+    {
+      "class": "shapePath",
+      "id": "88E6725E-2B35-4267-BEBC-9DA507918845"
+    }
+  ],
+  "name": "SF Pro Display",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "880165DC-B9E3-40FD-93B9-37B8639A460A",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7472,
+          "green": 0.7551,
+          "red": 0.2784
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "9F868344-55F6-43D1-ADC4-859D4CA57584",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2117647059,
+          "green": 0.168627451,
+          "red": 0.1294117647
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SFProDisplay-Bold",
+            "size": 32
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 1,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 32,
+          "minimumLineHeight": 32
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 29.51562,
+            "enabled": 1,
+            "modelID": "constraint_34a9e8a9-588b-4dca-8d2d-fdbb1ab1e3e8",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 207.1094
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_be822b7b-4492-4863-9d6d-f0af40cb083c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

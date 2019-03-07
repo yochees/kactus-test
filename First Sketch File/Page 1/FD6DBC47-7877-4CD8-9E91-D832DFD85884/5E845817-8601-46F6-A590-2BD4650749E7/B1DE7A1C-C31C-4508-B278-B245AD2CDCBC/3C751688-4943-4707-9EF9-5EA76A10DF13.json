@@ -115,11 +115,11 @@
             ]
           }
         },
-        "length": 33,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "dasd of core merchant experiences"
+    "string": "das"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -141,11 +141,11 @@
     "constrainProportions": false,
     "do_objectID": "52009885-8D4C-45EF-A566-40036FA35015",
     "height": 24,
-    "width": 278,
+    "width": 29,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {277, 16}}",
+  "glyphBounds": "{{0, 6}, {28, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -154,7 +154,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "dasd of core merchan",
+  "name": "das",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

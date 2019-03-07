@@ -2,11 +2,11 @@
   "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B50D2AE0-C7BA-4035-B1AA-55CB9B25E9BB",
+  "do_objectID": "EFBE8144-581F-44D2-B8A0-9950ABDE7776",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "50FDA24B-BE94-4F48-896C-BA5C143592EA",
+    "do_objectID": "B1ADBD57-69E1-4D91-AFE7-25F0216B92F8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,21 +17,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "81F9C962-2A39-41BB-B5B1-43C80905DDDD",
-    "height": 312,
-    "width": 312,
-    "x": 0,
-    "y": 0
+    "do_objectID": "F1FBDF33-5B28-4E49-B6F9-9711670530B4",
+    "height": 110.888,
+    "width": 1,
+    "x": 84.48230000000012,
+    "y": 122.7921
   },
   "hasClippingMask": false,
-  "isClosed": true,
+  "isClosed": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Fill 1",
+  "name": "Stroke 3",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 0,
   "points": [
@@ -44,26 +44,6 @@
       "hasCurveFrom": false,
       "hasCurveTo": false,
       "point": "{0, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
     },
     {
       "_class": "curvePoint",
@@ -82,26 +62,24 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "59B0D636-BBA2-44FA-A653-3C0C406940FE",
-    "endMarkerType": 0,
-    "fills": [
+    "borders": [
       {
-        "_class": "fill",
+        "_class": "border",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4405916805480055,
-          "green": 0.3489144830579006,
-          "red": 0.7903928894927537
+          "blue": 0.471,
+          "green": 0.18,
+          "red": 0.129
         },
         "fillType": 0,
         "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
+        "position": 0,
+        "thickness": 6
       }
     ],
+    "do_objectID": "46949FE4-35CF-4917-BD76-EC48245B1885",
+    "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1

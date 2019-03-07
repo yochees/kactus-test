@@ -125,11 +125,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "F8C100F9-3D0A-40CE-A9DB-D367C72B2CEA",
+  "do_objectID": "A477417F-D0EB-4A09-BBF8-AD7BDEDCD020",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0815B34E-0173-4D29-A711-9F408E213EDF",
+    "do_objectID": "2A2843C0-822F-418D-9F22-6BA563C1A1EC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -140,7 +140,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3A0E7402-CB89-4A04-84AE-E5489275948B",
+    "do_objectID": "309666A7-E1C6-460E-A1C8-DD69A082F5F8",
     "height": 168,
     "width": 509,
     "x": 0,
@@ -163,13 +163,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B5A63FD7-4F54-41F5-B020-0F26FF2476EA",
+    "do_objectID": "01998D99-73A3-4715-8A37-48C07131DA86",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "4C62B7EB-E693-4146-BE6E-B77AF9E9AB06",
+      "do_objectID": "31D17170-0D98-4EFA-9611-FC00F69A7CD6",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

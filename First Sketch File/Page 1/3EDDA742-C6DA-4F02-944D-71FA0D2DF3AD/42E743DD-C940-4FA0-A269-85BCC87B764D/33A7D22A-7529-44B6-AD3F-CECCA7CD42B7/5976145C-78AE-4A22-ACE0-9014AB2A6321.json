@@ -2,11 +2,11 @@
   "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B50D2AE0-C7BA-4035-B1AA-55CB9B25E9BB",
+  "do_objectID": "5976145C-78AE-4A22-ACE0-9014AB2A6321",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "50FDA24B-BE94-4F48-896C-BA5C143592EA",
+    "do_objectID": "08B21948-EA72-4574-878A-C0253022B9BC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,11 +17,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "81F9C962-2A39-41BB-B5B1-43C80905DDDD",
-    "height": 312,
-    "width": 312,
-    "x": 0,
-    "y": 0
+    "do_objectID": "9A5A65AC-D85E-450B-8E5E-7AD1B1359633",
+    "height": 16.75,
+    "width": 4.5625,
+    "x": 123.0625,
+    "y": 6.5625
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -31,9 +31,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Fill 1",
+  "name": "Path",
   "nameIsFixed": false,
-  "pointRadiusBehaviour": 0,
+  "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
@@ -82,7 +82,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "59B0D636-BBA2-44FA-A653-3C0C406940FE",
+    "do_objectID": "E7B44AE5-8BF8-44CB-969B-0029C64BAD4D",
     "endMarkerType": 0,
     "fills": [
       {
@@ -90,9 +90,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4405916805480055,
-          "green": 0.3489144830579006,
-          "red": 0.7903928894927537
+          "blue": 0.7472,
+          "green": 0.7551,
+          "red": 0.2784
         },
         "fillType": 0,
         "isEnabled": true,
@@ -104,12 +104,35 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "CF463F14-C25B-4799-9475-CA1E35F18E14",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2117647059,
+          "green": 0.168627451,
+          "red": 0.1294117647
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SFProDisplay-Bold",
+            "size": 32
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 1,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 32,
+          "minimumLineHeight": 32
+        }
+      },
+      "verticalAlignment": 0
+    },
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   }
 }
